@@ -1,0 +1,28 @@
+#wpex-replace-string-tools .message-search-urls {
+  display: block;
+	margin: 0 0 2em;		
+}
+
+#wpex-replace-string-tools #search_id-search-input {
+  width: 30em;
+}
+
+.list-search-urls table input[name="replace[]"] {
+  width: 100%;
+}
+
+.list-search-urls table a.found-url:hover {
+  color: #0077CC;
+	text-decoration: underline;
+}
+
+#wpex-replace-string-tools .loader {
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: middle;
+	width: 16px;
+	height: 16px;
+}
+#wpex-replace-string-tools .loader img {
+	display: none;
+}

@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEX Replace DB Urls v0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-06 15:28+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wpex-replace
+#: admin.php:106
+msgid ""
+"Here you can replace a URL with another. This is sometimes necessary, for "
+"example when you change the domain name."
+msgstr ""
+"Ovde možete zameniti URL nekim drugim. Ponekad je to neophodno, na primer "
+"kad menjate naziv domena. "
+
+# @ wpex-replace
+#: replacestring.class.php:424
+msgid "No Urls found."
+msgstr "URL-ovi nisu pronađeni."
+
+# @ wpex-replace
+#: replacestring.class.php:509
+msgid "Replace"
+msgstr "Zameni"
+
+# @ wpex-replace
+#: admin.php:99
+msgid ""
+"<b>CAUTION:</b> The changes are written directly into the database. Be sure "
+"to make a backup before running the replacement!"
+msgstr ""
+"<b>OPREZ:</b> Izmene se pišu direktno u bazu podataka. Pobrinite se za "
+"backup pre nego što pokrenete zamenjivanje! "
+
+# @ wpex-replace
+#: replacestring.class.php:555
+msgid "Urls have been replaced"
+msgstr "URL-ovi su zamenjeni."
+
+# @ wpex-replace
+#: replacestring.class.php:239
+msgid "table {table} {id_name}={id} could not be saved."
+msgstr "tabela {table} {id_name}={id} nije mogla biti sačuvana"
+
+# @ wpex-replace
+#. translators: plugin header field 'Description'
+#: init.php:0 js/init.php:0
+msgid ""
+"Replace one ore more urls in the complete database. Serialized strings are "
+"also supported."
+msgstr ""
+"Zamenite još jedan url u kompletnoj bazi podataka. Podržani su i "
+"serijalizovani stringovi."
+
+# @ wpex-replace
+#. translators: plugin header field 'Name'
+#: init.php:0 js/init.php:0
+msgid "WPEX Replace DB Urls"
+msgstr "WPEX Zameni DB Url"
+
+# @ wpex-replace
+#. translators: plugin header field 'PluginURI'
+#: init.php:0 js/init.php:0
+msgid "http://wpexperte.de/wpex-replace"
+msgstr "http://wpexperte.de/wpex-replace"
+
+# @ wpex-replace
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0 js/init.php:0
+msgid "http://www.wpexperte.de"
+msgstr "http://www.wpexperte.de"
+
+# @ wpex-replace
+#: admin.php:37
+msgid "Invalid url '{url}'"
+msgstr "nevažeći url ‘{url}'"
+
+# @ wpex-replace
+#. translators: plugin header field 'Author'
+#: init.php:0 js/init.php:0
+msgid "Detlef Stöver"
+msgstr "Detlef Stöver"
+
+# @ wpex-replace
+#: admin.php:55
+msgid "Replace Url"
+msgstr "Zameni URL"
+
+# @ wpex-replace
+#: admin.php:56 admin.php:97
+msgid "Replace Urls"
+msgstr "Zameni URL-ove"
+
+# @ wpex-replace
+#: admin.php:40
+msgid "No urls replaced."
+msgstr "URL-ovi nisu zamenjeni"
+
+# @ wpex-replace
+#: admin.php:35
+msgid "Do you really want to replace the selected urls?"
+msgstr "Da li zaista želite da zamenite odabrane url-ove?"
+
+# @ wpex-replace
+#: admin.php:36
+msgid "Please check your input!"
+msgstr "Molimo, proverite unos!"
+
+# @ wpex-replace
+#: admin.php:38
+msgid "Identical url '{url}'"
+msgstr "Identičan url '{url}'"
+
+# @ wpex-replace
+#: admin.php:39
+msgid "New url for {url} must not be empty."
+msgstr "Novi url za {url} ne sme biti prazan."
+
+# @ wpex-replace
+#: admin.php:73 replacestring.class.php:401
+msgid "Urls"
+msgstr "Url-ovi"
+
+# @ wpex-replace
+#: admin.php:107
+msgid "Only URLs with a new valid URL will be replaced."
+msgstr "Biće zamenjeni samo URL-ovi koji umaju nov, važeći URL"
+
+# @ wpex-replace
+#: admin.php:114
+msgid ""
+"If you want to get only a part of the urls, enter your filter. Press the "
+"Search button to get the list."
+msgstr ""
+"Ako želite samo deo url-a, unesite filter. Pritisnite taster ‘Traži’ da "
+"biste dobili listu."
+
+# @ wpex-replace
+#: admin.php:119
+msgid "Search"
+msgstr "Traži"
+
+# @ wpex-replace
+#. translators: plugin header field 'Version'
+#: init.php:0 js/init.php:0
+msgid "0.2.0"
+msgstr "0.2.0"
+
+# @ wpex-replace
+#: init.php:43 js/init.php:43
+msgid "WPEX-Replace plugin requires PHP 5.3 or higher."
+msgstr "WPEX-Replace plugin zahteva PHP 5.3 ili noviju."
+
+# @ wpex-replace
+#: replacestring.class.php:400
+msgid "Url"
+msgstr "Url"
+
+# @ wpex-replace
+#: replacestring.class.php:431
+msgid "Founded url"
+msgstr "Osnovan url"
+
+# @ wpex-replace
+#: replacestring.class.php:432
+msgid "Replace with url"
+msgstr "Zameni URL-om"
+
+# @ wpex-replace
+#: admin.php:115
+msgid ""
+"When you have many plugins installed, it can take a long time. So don't "
+"panik ;-)"
+msgstr ""
+"Kad imate mnogo instaliranih plugin-a, može potrajati dugo. Ne paničite. ;-)"
+
+# @ wpex-replace
+#: admin.php:41
+msgid "You have to activate the url which you want to replace."
+msgstr "Morate da aktivirate url koji želite da zamenite."

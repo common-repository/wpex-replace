@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEX Replace DB Urls v0.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-23 17:11:37+0000\n"
+"Last-Translator: detlef <office@west-business-group.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin.php:108
+#@ wpex-replace
+msgid "Here you can replace a URL with another. This is sometimes necessary, for example when you change the domain name."
+msgstr "Hier können Sie eine URL durch eine andere ersetzen. Dies ist manchmal notwendig, wenn Sie z.B. den Domain-Namen ändern."
+
+#: replacestring.class.php:417
+#@ wpex-replace
+msgid "No Urls found."
+msgstr "Keine URLs gefunden."
+
+#: replacestring.class.php:511
+#@ wpex-replace
+msgid "Replace"
+msgstr "Ersetzen"
+
+#: admin.php:101
+#@ wpex-replace
+msgid "<b>CAUTION:</b> The changes are written directly into the database. Be sure to make a backup before running the replacement!"
+msgstr "<b>ACHTUNG:</b> Die Änderungen werden direkt in die Datenbank zurück geschrieben. Bevor Sie die Ersetzung starten, legen Sie unbedingt vorher ein Backup an!"
+
+#: replacestring.class.php:558
+#@ wpex-replace
+msgid "Urls have been replaced"
+msgstr "Die URLs wurden ersetzt."
+
+#: replacestring.class.php:214
+#@ wpex-replace
+msgid "table {table} {id_name}={id} could not be saved."
+msgstr "Tabelle {table} {id_name}={id} konnte nicht gespeichert werden."
+
+#. translators: plugin header field 'Description'
+#: init.php:0
+#@ wpex-replace
+msgid "Replace one ore more urls in the complete database. Serialized strings are also supported."
+msgstr "Ersetzt eine oder mehrere URLs in der kompletten Datenbank. Serialisierte Texte werden ebenso unterstützt."
+
+#. translators: plugin header field 'Name'
+#: init.php:0
+#@ wpex-replace
+msgid "WPEX Replace DB Urls"
+msgstr "WPEX Ersetze DB Urls"
+
+#. translators: plugin header field 'PluginURI'
+#: init.php:0
+#@ wpex-replace
+msgid "http://wpexperte.de/wpex-replace"
+msgstr "http://wpexperte.de/wpex-replace"
+
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0
+#@ wpex-replace
+msgid "http://www.wpexperte.de"
+msgstr "http://www.wpexperte.de"
+
+#: admin.php:37
+#@ wpex-replace
+msgid "Invalid url '{url}'"
+msgstr "Ungültige URL '{url}'"
+
+#. translators: plugin header field 'Author'
+#: init.php:0
+#@ wpex-replace
+msgid "Detlef Stöver"
+msgstr "Detlef Stöver"
+
+#: admin.php:57
+#@ wpex-replace
+msgid "Replace Url"
+msgstr "URL ersetzen"
+
+#: admin.php:58
+#: admin.php:99
+#@ wpex-replace
+msgid "Replace Urls"
+msgstr "URLs ersetzen"
+
+#: admin.php:40
+#@ wpex-replace
+msgid "No urls replaced."
+msgstr "Es wurden keine URLs ersetzt."
+
+#: admin.php:35
+#@ wpex-replace
+msgid "Do you really want to replace the selected urls?"
+msgstr "Wollen Sie die markierten URLs wirklich ersetzen?"
+
+#: admin.php:36
+#@ wpex-replace
+msgid "Please check your input!"
+msgstr "Bitte prüfen Sie Ihre Eingaben!"
+
+#: admin.php:38
+#@ wpex-replace
+msgid "Identical url '{url}'"
+msgstr "Identische Url '{url}'"
+
+#: admin.php:75
+#: replacestring.class.php:394
+#@ wpex-replace
+msgid "Urls"
+msgstr "Urls"
+
+#: admin.php:109
+#@ wpex-replace
+msgid "Only URLs with a new valid URL will be replaced."
+msgstr "Nur URLs mit einer neuen gültigen URL werden ersetzt."
+
+#: admin.php:116
+#@ wpex-replace
+msgid "If you want to get only a part of the urls, enter your filter. Press the Search button to get the list."
+msgstr "Wenn Sie nur einen Teil der Urls anzeigen wollen, geben Sie hier Ihren Filter ein. Drücken Sie den Suchen Button um die Liste zu bekommen."
+
+#: admin.php:121
+#@ wpex-replace
+msgid "Search"
+msgstr "Suchen"
+
+#: init.php:44
+#@ wpex-replace
+msgid "WPEX-Replace plugin requires PHP 5.3 or higher."
+msgstr "Das WPEX-Replace Plugin benötigt PHP 5.3 oder höher."
+
+#: replacestring.class.php:393
+#@ wpex-replace
+msgid "Url"
+msgstr "Url"
+
+#: replacestring.class.php:424
+#@ wpex-replace
+msgid "Founded url"
+msgstr "Gefundene Url"
+
+#: replacestring.class.php:426
+#@ wpex-replace
+msgid "Replace with url"
+msgstr "Ersetzt durch Url"
+
+#: admin.php:117
+#@ wpex-replace
+msgid "When you have many plugins installed, it can take a long time. So don't panik ;-)"
+msgstr "Wenn Sie viele Plugins installiert haben, kann es eine längere Zeit dauern. Also keine Panik ;-)"
+
+#: admin.php:41
+#@ wpex-replace
+msgid "You have to activate the url which you want to replace."
+msgstr "Sie müssen die Url auswählen, welche Sie ersetzen wollen."
+
+#: admin.php:39
+#@ wpex-replace
+msgid "{which} url for {url} must not be empty."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: init.php:0
+#@ wpex-replace
+msgid "0.3.0"
+msgstr ""
+
+#: replacestring.class.php:425
+#@ wpex-replace
+msgid "Original url"
+msgstr ""
+
